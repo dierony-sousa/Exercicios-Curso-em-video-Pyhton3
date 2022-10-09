@@ -1,4 +1,4 @@
-# Exercicios-Curso-em-video-Pyhton3
+# Exercicios-Curso-em-video-Python3
 -- Repositórios com os códigos desenvolvidos no <b>'Curso em Vídeo Python 3'</b>, propostos pelo professor <b>Gutavo Guanabara</b>, gratuitamente na plataforma YouTube.
 
 -- Todos os exercícios deste diretório foram desenvolvidos em linguagem <b>Python</b>.
